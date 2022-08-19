@@ -10,5 +10,5 @@
 I'm a {dev. indie Game} - {backend} developer and technical instructor).
 
 - [Projects](https://www.instagram.com/cloudbytestudio/)🎮
-- [WebSite] (https://cloudbytestudio.com)💻
+- [WebSite] (https://cloudbytestudio.com/)💻
 
